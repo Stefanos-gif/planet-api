@@ -35,7 +35,7 @@ GET /api/fact?planet={planetName}
 
 **Example Request:**
 ```sh
-curl "http://localhost:5174/api/fact?planet=earth"
+curl "https://planet-api-mu.vercel.app//api/fact?planet=earth"
 ```
 
 **Example Response:**
